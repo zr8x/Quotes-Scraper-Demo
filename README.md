@@ -1,5 +1,7 @@
 # Quotes Scraper Demo
 
+Just quick web scraper, don't use it's just for my learning purposes haha
+
 ## Installation:
 **Dependencies:**
 * Python (obviously)
@@ -31,5 +33,5 @@ source .venv/bin/activate
 ```
 Install other dependencies:
 ```bash
-pip install -r requirements.txt
+lwk imma finish this later
 ```
